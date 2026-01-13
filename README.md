@@ -143,6 +143,4 @@ It contains: - Full project explanation\
 
 ## 👤 Author
 
-Your Name\
-Module E -- AI Applications\
-India
+Elmerson\
