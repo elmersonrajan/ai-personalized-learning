@@ -133,14 +133,14 @@ The primary evaluation artifact for this project is:
 **AI_Personalized_Learning_Rubric_Format.ipynb**
 
 It contains: - Full project explanation\
-- Data preparation\
-- Model training\
-- Evaluation\
-- Ethics\
+- Data preparation
+- Model training
+- Evaluation
+- Ethics
 - Conclusions
 
 ------------------------------------------------------------------------
 
 ## 👤 Author
 
-Elmerson\
+Elmerson
