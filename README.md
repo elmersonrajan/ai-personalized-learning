@@ -143,4 +143,4 @@ It contains: - Full project explanation\
 
 ## 👤 Author
 
-Elmerson Rajan
+Elmerson R
